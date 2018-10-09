@@ -21,6 +21,10 @@ Keep Leaning...
 
     - [iCSS](https://github.com/chokcoco/iCSS)
 
+- ### 算法
+
+    - [排序](https://visualgo.net/zh/sorting)
+
 ## 优秀博客/社区
 
 - [玉伯](https://lifesinger.wordpress.com/)
