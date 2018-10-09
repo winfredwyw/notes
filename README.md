@@ -1,11 +1,38 @@
-# books
-电子书收藏
+# 搜集
+
+Keep Leaning...
 
 ## 技术相关
 
-- [HTML5 Canvas核心技术](https://github.com/winfredwyw/books/blob/master/%E6%8A%80%E6%9C%AF%E7%9B%B8%E5%85%B3/HTML5%20Canvas%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
-- [HTML5CANVAS游戏开发实战](https://github.com/winfredwyw/books/blob/master/%E6%8A%80%E6%9C%AF%E7%9B%B8%E5%85%B3/HTML5CANVAS%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.pdf)
-- [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+- ### Canvas
+
+    - [HTML5 Canvas核心技术](https://github.com/winfredwyw/books/blob/master/%E6%8A%80%E6%9C%AF%E7%9B%B8%E5%85%B3/HTML5%20Canvas%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
+    - [HTML5CANVAS游戏开发实战](https://github.com/winfredwyw/books/blob/master/%E6%8A%80%E6%9C%AF%E7%9B%B8%E5%85%B3/HTML5CANVAS%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.pdf)
+
+- ### JavaScript
+
+    - [参考手册](https://yuchengkai.cn/docs/zh/frontend/)
+    - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+    - [深度学习](http://dmitrysoshnikov.com/)
+    - [练习-leetcode](https://leetcode.com/)
+    - [练习-codewars](https://www.codewars.com/dashboard)
+
+- ### CSS
+
+    - [iCSS](https://github.com/chokcoco/iCSS)
+
+## 优秀博客/社区
+
+- [awesomes](https://www.awesomes.cn)
+- [FEX](https://fex.baidu.com/)
+- [jaywcjlove](https://github.com/jaywcjlove/handbook)
+- [mqyqingfeng](https://github.com/mqyqingfeng/Blog)
+- [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+- [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
+- [掘金翻译计划](https://github.com/xitu/gold-miner)
+- [全栈工程师培训材料](https://github.com/ruanyf/jstraining)
+- [一些经典且高质量的电子书分享](https://github.com/threerocks/studyFiles)
+- [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## 大牛分享
 
@@ -15,13 +42,40 @@
 
 ## 生活读物
 
-- 北大授课：中华文化四十七讲
-- 十亿消费者
-- 好好说话：新鲜有趣的话术精进技巧
-- 晚年周丞相
-- 曾国藩
-- 蔡澜生活三部曲
+- [北大授课：中华文化四十七讲](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E5%8C%97%E5%A4%A7%E6%8E%88%E8%AF%BE%EF%BC%9A%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%9B%9B%E5%8D%81%E4%B8%83%E8%AE%B2.azw3)
+- [十亿消费者](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E5%8D%81%E4%BA%BF%E6%B6%88%E8%B4%B9%E8%80%85.mobi)
+- [好好说话：新鲜有趣的话术精进技巧](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D%EF%BC%9A%E6%96%B0%E9%B2%9C%E6%9C%89%E8%B6%A3%E7%9A%84%E8%AF%9D%E6%9C%AF%E7%B2%BE%E8%BF%9B%E6%8A%80%E5%B7%A7.azw3)
+- [晚年周丞相](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E6%99%9A%E5%B9%B4%E5%91%A8%E4%B8%9E%E7%9B%B8.azw3)
+- [曾国藩](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E6%9B%BE%E5%9B%BD%E8%97%A9%EF%BC%9A%E5%94%90%E6%B5%A9%E6%98%8E%E9%92%A6%E5%AE%9A%E7%89%88%2B-%2B%E5%94%90%E6%B5%A9%E6%98%8E.azw3)
+- [蔡澜生活三部曲](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E8%94%A1%E6%BE%9C%E7%94%9F%E6%B4%BB%E4%B8%89%E9%83%A8%E6%9B%B2.azw3)
 
 ## 秀逗技术
 
 - [Greasy Fork](https://greasyfork.org/zh-CN/)
+
+## 善事利器
+
+- ### 搜索/启动
+
+    - [Launchy](https://sourceforge.net/projects/launchy/files/)
+    - [Listary](https://www.listary.com/)
+
+- ### 图片处理
+
+    - FastStone Capture
+
+- ### 终端管理
+
+    - [mobaxterm](http://mobaxterm.mobatek.net/download-home-edition.html)
+
+- ### FTP
+
+    - FileZilla
+
+- ### 科学上网
+
+    - [镜像1](https://rain.likeso.ml/)
+    - [镜像2](https://g.vvvip.top/)
+    - [镜像3](https://direct.likeso.ml/)
+    - [镜像4](https://kirara.cf/)
+    - [镜像5](https://wing.likeso.ml/)
