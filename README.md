@@ -24,6 +24,7 @@ Keep Leaning...
 - ### 算法
 
     - [排序](https://visualgo.net/zh/sorting)
+    - [十大经典排序算法](https://www.cnblogs.com/onepixel/articles/7674659.html)
 
 ## 优秀博客/社区
 
