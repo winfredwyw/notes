@@ -23,6 +23,9 @@ Keep Leaning...
 
 ## 优秀博客/社区
 
+- [玉伯](https://lifesinger.wordpress.com/)
+- [小鱼](https://sofi.sh/)
+- [前端农民工](https://github.com/fouber/blog)
 - [awesomes](https://www.awesomes.cn)
 - [FEX](https://fex.baidu.com/)
 - [jaywcjlove](https://github.com/jaywcjlove/handbook)
