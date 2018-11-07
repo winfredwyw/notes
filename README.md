@@ -16,6 +16,9 @@ Keep Leaning...
     - [深度学习](http://dmitrysoshnikov.com/)
     - [练习-leetcode](https://leetcode.com/)
     - [练习-codewars](https://www.codewars.com/dashboard)
+    - [GitHub 上 JS 仓库的本月趋势](https://github.com/trending?l=javascript&since=monthly)
+    - [在 NPM 上大多数依赖的软件包](https://www.npmjs.com/browse/depended)
+    - [JavaScript开发者应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
 
 - ### CSS
 
