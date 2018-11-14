@@ -94,3 +94,17 @@ Keep Leaning...
     - [镜像3](https://direct.likeso.ml/)
     - [镜像4](https://kirara.cf/)
     - [镜像5](https://wing.likeso.ml/)
+
+## 个人笔记
+
+- ### 2018-10
+
+    - [PWA初识](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201810/PWA%E5%88%9D%E8%AF%86.md)
+    - [前端进阶建议](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201810/%E5%89%8D%E7%AB%AF%E8%BF%9B%E9%98%B6%E5%BB%BA%E8%AE%AE.md)
+
+- ### 2018-11
+
+    - [Babel插件开发](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/Babel%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.md)
+    - [前端安全常识](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E5%89%8D%E7%AB%AF%E5%AE%89%E5%85%A8%E5%B8%B8%E8%AF%86.md)
+    - [持续集成](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90.md)
+    - [正则表达式](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
