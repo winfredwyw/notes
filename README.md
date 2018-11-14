@@ -4,6 +4,10 @@ Keep Leaning...
 
 ## 技术相关
 
+- ### 浏览器和网络
+
+    - [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
+
 - ### Canvas
 
     - [HTML5 Canvas核心技术](https://github.com/winfredwyw/books/blob/master/%E6%8A%80%E6%9C%AF%E7%9B%B8%E5%85%B3/HTML5%20Canvas%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
