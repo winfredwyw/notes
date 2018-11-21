@@ -96,6 +96,11 @@ Keep Leaning...
     - [镜像4](https://kirara.cf/)
     - [镜像5](https://wing.likeso.ml/)
 
+- ### 视觉/创意
+
+    - [追波](https://dribbble.com/)
+    - [pinterest](https://nl.pinterest.com/)
+
 ## 个人笔记
 
 - ### 2018-10
@@ -109,3 +114,6 @@ Keep Leaning...
     - [前端安全常识](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E5%89%8D%E7%AB%AF%E5%AE%89%E5%85%A8%E5%B8%B8%E8%AF%86.md)
     - [持续集成](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90.md)
     - [正则表达式](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+    - [注释文档化工具](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E6%B3%A8%E9%87%8A%E6%96%87%E6%A1%A3%E5%8C%96%E5%B7%A5%E5%85%B7.md)
+    - [移动Web经验总结](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E7%A7%BB%E5%8A%A8Web%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.md)
+    - [跨域](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201811/%E8%B7%A8%E5%9F%9F.md)
