@@ -7,6 +7,8 @@ Keep Leaning...
 - ### 浏览器和网络
 
     - [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
+    - [如何打造一个全满分网站](https://segmentfault.com/a/1190000011867361)
+    - [SEO优化实战](http://imweb.io/topic/5682938b57d7a6c47914fc00)
 
 - ### Canvas
 
@@ -33,6 +35,10 @@ Keep Leaning...
 
     - [排序](https://visualgo.net/zh/sorting)
     - [十大经典排序算法](https://www.cnblogs.com/onepixel/articles/7674659.html)
+
+- ### 持续集成
+
+    - [docker中级篇](https://idig8.com/category/docker/docker-middle/)
 
 ## 优秀博客/社区
 
@@ -65,11 +71,16 @@ Keep Leaning...
 - [曾国藩](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E6%9B%BE%E5%9B%BD%E8%97%A9%EF%BC%9A%E5%94%90%E6%B5%A9%E6%98%8E%E9%92%A6%E5%AE%9A%E7%89%88%2B-%2B%E5%94%90%E6%B5%A9%E6%98%8E.azw3)
 - [蔡澜生活三部曲](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E8%94%A1%E6%BE%9C%E7%94%9F%E6%B4%BB%E4%B8%89%E9%83%A8%E6%9B%B2.azw3)
 
+- [达里奥《原则》](http://player.youku.com/embed/XMzkzNzMzNjY2MA==)
+
 ## 秀逗技术
 
 - [Greasy Fork](https://greasyfork.org/zh-CN/)
 
 ## 善事利器
+
+- ### 在线编码
+    - [jsfiddle](https://jsfiddle.net/)
 
 - ### 搜索/启动
 
@@ -100,6 +111,8 @@ Keep Leaning...
 
     - [追波](https://dribbble.com/)
     - [pinterest](https://nl.pinterest.com/)
+    - [L99](http://www.l99.com)
+    - [咖啡日报](https://coffee.pmcaff.com/)
 
 ## 个人笔记
 
