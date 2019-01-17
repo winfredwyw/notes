@@ -40,6 +40,9 @@ Keep Leaning...
 
     - [docker中级篇](https://idig8.com/category/docker/docker-middle/)
 
+- ### 调试
+    - [你不知道的 console 命令](https://juejin.im/post/5bf64218e51d45194266acb7)
+
 ## 优秀博客/社区
 
 - [玉伯](https://lifesinger.wordpress.com/)
@@ -51,7 +54,9 @@ Keep Leaning...
 - [mqyqingfeng](https://github.com/mqyqingfeng/Blog)
 - [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
-- [掘金翻译计划](https://github.com/xitu/gold-miner)
+- [掘金](https://juejin.im)
+    - [掘金翻译计划](https://github.com/xitu/gold-miner)
+    - [2018 年「掘金翻译计划」年度总结](https://juejin.im/post/5c37fe8451882523995df8e8)
 - [全栈工程师培训材料](https://github.com/ruanyf/jstraining)
 - [一些经典且高质量的电子书分享](https://github.com/threerocks/studyFiles)
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
