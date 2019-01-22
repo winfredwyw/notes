@@ -73,8 +73,8 @@ window.addEventListener('devicemotion', function(event) {
 ![此处输入图片的描述][5]
 
 
-  [1]: http://www.zhangyunling.com/study/2017/20170125/axes.png
-  [2]: http://www.zhangyunling.com/study/2017/20170125/alpha.png
-  [3]: http://www.zhangyunling.com/study/2017/20170125/beta.png
-  [4]: http://www.zhangyunling.com/study/2017/20170125/gamma.png
-  [5]: https://i.loli.net/2018/09/18/5ba0c867cd1c9.png
+  [1]: https://github.com/winfredwyw/notes/blob/master/assets/201801/7.png
+  [2]: https://github.com/winfredwyw/notes/blob/master/assets/201801/3.png
+  [3]: https://github.com/winfredwyw/notes/blob/master/assets/201801/4.png
+  [4]: https://github.com/winfredwyw/notes/blob/master/assets/201801/5.png
+  [5]: https://github.com/winfredwyw/notes/blob/master/assets/201801/6.png

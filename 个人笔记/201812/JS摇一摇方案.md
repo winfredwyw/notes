@@ -11,8 +11,6 @@
 ## 摇一摇场景
 
 ![此处输入图片的描述][1]
-
-[1]: https://user-gold-cdn.xitu.io/2017/7/23/d544f6a1f8afe2dc3fa3b377e23f7e83?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
   
 ## 摇一摇条件分析
 
@@ -83,3 +81,5 @@ var addShakeListener = (function () {
 ## 参考
 
 - [https://juejin.im/post/59741e6f6fb9a06bca0bd7d1#heading-2](https://juejin.im/post/59741e6f6fb9a06bca0bd7d1#heading-2)
+
+[1]: https://github.com/winfredwyw/notes/blob/master/assets/201801/8.webp
