@@ -18,6 +18,7 @@ Keep Leaning...
 - ### JavaScript
 
     - [参考手册](https://yuchengkai.cn/docs/zh/frontend/)
+    - [优化编码](https://30secondsofcode.org/index)
     - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
     - [深度学习](http://dmitrysoshnikov.com/)
     - [练习-leetcode](https://leetcode.com/)
