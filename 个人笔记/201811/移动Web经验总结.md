@@ -7,7 +7,10 @@
 
 #### 2. 播放器
 
-- [H5 直播避坑指南](https://zhuanlan.zhihu.com/p/27690199)
+- 参考
+    - [H5 直播避坑指南](https://zhuanlan.zhihu.com/p/27690199)
+    - [X5同层播放器试用报告](https://x5.tencent.com/tbs/guide/web/x5-video.html)
+
 - 微信全屏播放
     - playsinline 
     - webkit-playsinline
