@@ -114,13 +114,6 @@ Keep Leaning...
 
     - FileZilla
 
-- ### 科学上网
-
-    - [镜像1](https://rain.likeso.ml/)
-    - [镜像2](https://g.vvvip.top/)
-    - [镜像3](https://direct.likeso.ml/)
-    - [镜像4](https://kirara.cf/)
-    - [镜像5](https://wing.likeso.ml/)
 
 - ### 视觉/创意
 
