@@ -21,7 +21,6 @@ Keep Leaning...
 
 - ### JavaScript
 
-    - [参考手册](https://yuchengkai.cn/docs/zh/frontend/)
     - [优化编码](https://30secondsofcode.org/index)
     - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
     - [深度学习](http://dmitrysoshnikov.com/)
@@ -30,6 +29,7 @@ Keep Leaning...
     - [GitHub 上 JS 仓库的本月趋势](https://github.com/trending?l=javascript&since=monthly)
     - [在 NPM 上大多数依赖的软件包](https://www.npmjs.com/browse/depended)
     - [JavaScript开发者应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
+    - [参考手册](https://yuchengkai.cn/docs/zh/frontend/)
 
 - ### CSS
 
