@@ -21,9 +21,10 @@ Keep Leaning...
 
 - ### JavaScript
 
-    - [优化编码](https://30secondsofcode.org/index)
     - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
     - [深度学习](http://dmitrysoshnikov.com/)
+    - [JavaScript 互动教程](https://learnjavascript.online/)
+    - [优化编码](https://30secondsofcode.org/index)
     - [练习-leetcode](https://leetcode.com/)
     - [练习-codewars](https://www.codewars.com/dashboard)
     - [GitHub 上 JS 仓库的本月趋势](https://github.com/trending?l=javascript&since=monthly)
@@ -47,6 +48,9 @@ Keep Leaning...
 
 - ### 调试
     - [你不知道的 console 命令](https://juejin.im/post/5bf64218e51d45194266acb7)
+
+- ### 其它
+    - [技术的极限](https://www.cnblogs.com/math/p/tech-limit-01.html)
 
 ## 优秀博客/社区
 
@@ -102,6 +106,7 @@ Keep Leaning...
 ## 善事利器
 
 - ### 在线编码
+    - [Monaco Editor](https://microsoft.github.io/monaco-editor/)
     - [jsfiddle](https://jsfiddle.net/)
     - [msdn](https://interactive-examples.mdn.mozilla.net/pages/js/object-create.html)
 
