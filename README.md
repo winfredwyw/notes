@@ -76,6 +76,14 @@ Keep Leaning...
 
 - [第十三届 D2 前端技术论坛](https://www.yuque.com/d2forum/content/d213#6a1363f4)
 
+- [第四届 FEDAY](https://fequan.com/2018/)
+
+- [第三届 FEDAY](https://fequan.com/2017/)
+
+- [第二届 FEDAY](https://fequan.com/2016/)
+
+- [第一届 FEDAY](https://www.fequan.com/feday)
+
 ## 生活读物
 
 - [北大授课：中华文化四十七讲](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E5%8C%97%E5%A4%A7%E6%8E%88%E8%AF%BE%EF%BC%9A%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%9B%9B%E5%8D%81%E4%B8%83%E8%AE%B2.azw3)
