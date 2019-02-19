@@ -42,6 +42,10 @@ Keep Leaning...
     - [排序](https://visualgo.net/zh/sorting)
     - [十大经典排序算法](https://www.cnblogs.com/onepixel/articles/7674659.html)
 
+- ### 设计方案
+    - [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+    - [面向对象](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3.md)
+
 - ### 持续集成
 
     - [docker中级篇](https://idig8.com/category/docker/docker-middle/)
@@ -62,6 +66,7 @@ Keep Leaning...
 - [FEX](https://fex.baidu.com/)
 - [jaywcjlove](https://github.com/jaywcjlove/handbook)
 - [mqyqingfeng](https://github.com/mqyqingfeng/Blog)
+- [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
 - [掘金](https://juejin.im)
