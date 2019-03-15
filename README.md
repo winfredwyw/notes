@@ -21,6 +21,7 @@ Keep Leaning...
 
 - ### JavaScript
 
+    - [现代 Javascript 教程](https://zh.javascript.info/)
     - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
     - [深度学习](http://dmitrysoshnikov.com/)
     - [JavaScript 互动教程](https://learnjavascript.online/)
