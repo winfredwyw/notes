@@ -145,6 +145,9 @@ Keep Leaning...
     - [家装1](https://www.architonic.com/en)
     - [家装2](https://www.houzz.com/)
     - [MarkDown转微信文章](https://lab.lyric.im/wxformat/)
+    
+- ### 科学上网
+    - [免费服务器](http://www.fyhqy.com/ss/comment-page-1?replyTo=11792#comment-12873)
 
 ## 个人笔记
 
