@@ -77,6 +77,7 @@ Keep Leaning...
 - [一些经典且高质量的电子书分享](https://github.com/threerocks/studyFiles)
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [阮一峰每周分享](https://www.yuque.com/ruanyf/share)
+- [国内知名的前端团队](https://www.cnblogs.com/10ve/p/10527714.html)
 
 ## 大牛分享
 
