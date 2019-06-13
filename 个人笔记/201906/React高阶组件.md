@@ -10,7 +10,7 @@
 
 ### 2.1 Props Proxy 属性代理
 
-#### 先了解下代理模式
+先了解下代理模式
 
 > Proxy（代理模式）：为其他对象（消费者）提供一个代理（代理商）以控制对这个对象（生成商）的访问。
 
@@ -18,13 +18,13 @@
 
 > 代理模式优势: 重用业务逻辑
 
-#### Props Proxy实现
+Props Proxy实现
 
 > 请看具体代码
 
-#### 注意点
+注意点
 
-Props Proxy 作为一层代理，具有隔离的作用，因此传入 WrappedComponent 的 ref 将无法访问到其本身，需要在 Props Proxy 内完成中转，具体可参考以下代码，react-redux 也是这样实现的。
+> Props Proxy 作为一层代理，具有隔离的作用，因此传入 WrappedComponent 的 ref 将无法访问到其本身，需要在 Props Proxy 内完成中转，具体可参考以下代码，react-redux 也是这样实现的。
 
 ```
 function ppHOC(WrappedComponent) {
