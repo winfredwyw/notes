@@ -72,11 +72,11 @@ class App extends React.Component {
 }
 ```
 
-## 2.2 提取state
+### 2.2 提取state
 
 请看代码
 
-## 2.3 反向继承
+### 2.3 反向继承
 
 HOC 类继承了 WrappedComponent，意味着可以访问到 WrappedComponent 的 state、props、生命周期和 render 等方法。这种方案依然是继承的思想，对于 WrappedComponent 也有较强的侵入性，因此并不常见。
 
@@ -110,3 +110,4 @@ function ppHOC(WrappedComponent) {
 
 - [精读 React 高阶组件](https://github.com/dt-fe/weekly/blob/v2/012.%E7%B2%BE%E8%AF%BB%20React%20%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6.md)
 - [讨论区](https://github.com/dt-fe/weekly/issues/18)
+- [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
