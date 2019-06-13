@@ -151,6 +151,10 @@ Keep Leaning...
 - ### 资源下载
     - [motrix](https://motrix.app/zh-CN/)
 
+- ### 知识文库
+
+    - [龙猫学术](http://www.6453.net/)
+
 ## 个人笔记
 
 - ### 2018-10
