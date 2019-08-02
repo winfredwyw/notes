@@ -121,6 +121,12 @@ Keep Leaning...
 - ### 图片处理
 
     - FastStone Capture
+        
+    ```
+    破解方法，在注册框中输入：
+    name：bluman
+    key：VPISCJULXUFGDDXYAUYF
+    ```
     - [tinypng](https://tinypng.com/)
 
 - ### 终端管理
