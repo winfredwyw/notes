@@ -108,6 +108,9 @@ Keep Leaning...
 
 ## 善事利器
 
+- ### 翻译
+    -[国际化应用翻译](https://i18ns.com/)
+
 - ### 在线编码
     - [Monaco Editor](https://microsoft.github.io/monaco-editor/)
     - [jsfiddle](https://jsfiddle.net/)
@@ -136,6 +139,7 @@ Keep Leaning...
 
     - [可免费商用的素材网站精选](https://ideahub.pmcaff.com/repo/invite/fPOK3lS8k)
     - [可免费商用的SVG图标](https://remixicon.com/)
+    - [高质量素材](https://mixkit.co/art/)
     - [追波](https://dribbble.com/)
     - [pinterest](https://nl.pinterest.com/)
     - [L99](http://www.l99.com)
@@ -154,6 +158,11 @@ Keep Leaning...
 - ### 知识文库
 
     - [龙猫学术](http://www.6453.net/)
+    - [独立中文博客](https://typlog.com/podlist/)
+    - [植物画册](https://www.c82.net/twining/plants/)
+
+- ### 代码库
+    - [开源项目门户](https://www.ctolib.com/)
 
 ## 个人笔记
 
