@@ -56,6 +56,7 @@ Keep Leaning...
 
 - ### 其它
     - [技术的极限](https://www.cnblogs.com/math/p/tech-limit-01.html)
+    - [独角兽排行榜](https://dujiaoshou.io/)
 
 ## 优秀博客/社区
 
@@ -124,6 +125,12 @@ Keep Leaning...
 - ### 图片处理
 
     - FastStone Capture
+        
+    ```
+    破解方法，在注册框中输入：
+    name：bluman
+    key：VPISCJULXUFGDDXYAUYF
+    ```
     - [tinypng](https://tinypng.com/)
 
 - ### 终端管理
