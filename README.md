@@ -92,17 +92,6 @@ Keep Leaning...
 
 - [第一届 FEDAY](https://www.fequan.com/feday)
 
-## 生活读物
-
-- [北大授课：中华文化四十七讲](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E5%8C%97%E5%A4%A7%E6%8E%88%E8%AF%BE%EF%BC%9A%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%9B%9B%E5%8D%81%E4%B8%83%E8%AE%B2.azw3)
-- [十亿消费者](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E5%8D%81%E4%BA%BF%E6%B6%88%E8%B4%B9%E8%80%85.mobi)
-- [好好说话：新鲜有趣的话术精进技巧](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D%EF%BC%9A%E6%96%B0%E9%B2%9C%E6%9C%89%E8%B6%A3%E7%9A%84%E8%AF%9D%E6%9C%AF%E7%B2%BE%E8%BF%9B%E6%8A%80%E5%B7%A7.azw3)
-- [晚年周丞相](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E6%99%9A%E5%B9%B4%E5%91%A8%E4%B8%9E%E7%9B%B8.azw3)
-- [曾国藩](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E6%9B%BE%E5%9B%BD%E8%97%A9%EF%BC%9A%E5%94%90%E6%B5%A9%E6%98%8E%E9%92%A6%E5%AE%9A%E7%89%88%2B-%2B%E5%94%90%E6%B5%A9%E6%98%8E.azw3)
-- [蔡澜生活三部曲](https://github.com/winfredwyw/books/blob/master/%E7%94%9F%E6%B4%BB%E8%AF%BB%E7%89%A9/%E8%94%A1%E6%BE%9C%E7%94%9F%E6%B4%BB%E4%B8%89%E9%83%A8%E6%9B%B2.azw3)
-
-- [达里奥《原则》](http://player.youku.com/embed/XMzkzNzMzNjY2MA==)
-
 ## 秀逗技术
 
 - [Greasy Fork](https://greasyfork.org/zh-CN/)
@@ -154,7 +143,7 @@ Keep Leaning...
     - [家装1](https://www.architonic.com/en)
     - [家装2](https://www.houzz.com/)
     - [MarkDown转微信文章](https://lab.lyric.im/wxformat/)
-    - [大自然的声音SAFE](http://acoustics.safeproject.net/)
+    - [设计师资源大全](https://github.com/jobbole/awesome-design-cn)
     
 - ### 科学上网
     - [免费服务器](http://www.fyhqy.com/ss/comment-page-1?replyTo=11792#comment-12873)
@@ -167,6 +156,8 @@ Keep Leaning...
     - [龙猫学术](http://www.6453.net/)
     - [独立中文博客](https://typlog.com/podlist/)
     - [植物画册](https://www.c82.net/twining/plants/)
+    - [中文诗歌主页](https://shici.store/huajianji/)
+    - [大自然的声音SAFE](http://acoustics.safeproject.net/)
 
 - ### 代码库
     - [开源项目门户](https://www.ctolib.com/)
@@ -207,3 +198,7 @@ Keep Leaning...
     - [移动Web调试 - 远程调试](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201902/%E8%BF%9C%E7%A8%8B%E8%B0%83%E8%AF%95.md)
     - [适配初识](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201902/%E9%80%82%E9%85%8D%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
     - [ES6解构](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201902/ES6%E8%A7%A3%E6%9E%84.md)
+
+- ### 2019-09
+
+    - [前端规划图谱](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201909/前端规划图谱.md)
