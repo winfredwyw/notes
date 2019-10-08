@@ -79,6 +79,7 @@ Keep Leaning...
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [阮一峰每周分享](https://www.yuque.com/ruanyf/share)
 - [国内知名的前端团队](https://www.cnblogs.com/10ve/p/10527714.html)
+- [程序员导航](http://geekdocs.cn/)
 
 ## 大牛分享
 
@@ -99,7 +100,7 @@ Keep Leaning...
 ## 善事利器
 
 - ### 翻译
-    -[国际化应用翻译](https://i18ns.com/)
+    - [国际化应用翻译](https://i18ns.com/)
 
 - ### 在线编码
     - [Monaco Editor](https://microsoft.github.io/monaco-editor/)
