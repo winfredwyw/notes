@@ -53,7 +53,7 @@ Keep Leaning...
     - [前端规划图谱](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201909/前端规划图谱.md)
 
 
-## 技术相关
+## 技术草原
 
 - ### Web整合文档
 
