@@ -13,6 +13,7 @@ Keep Leaning...
     - [HTTP Header详解](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201904/HTTP+Header%e8%af%a6%e8%a7%a3.md)
     - [常见保存数据处理](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201905/%e5%b8%b8%e8%a7%81%e4%bf%9d%e5%ad%98%e6%95%b0%e6%8d%ae%e5%a4%84%e7%90%86.md)
     - [JS数据类型](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201904/JS%e6%95%b0%e6%8d%ae%e7%b1%bb%e5%9e%8b.md)
+    - [前端SEO优化积累](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201906/%e5%89%8d%e7%ab%afSEO%e4%bc%98%e5%8c%96%e7%a7%af%e7%b4%af.md)
 
 - ### 框架相关
 
@@ -37,14 +38,13 @@ Keep Leaning...
     - [移动Web调试 - 代理调试](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201902/%E4%BB%A3%E7%90%86%E8%B0%83%E8%AF%95.md)
     - [移动Web调试 - 远程调试](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201902/%E8%BF%9C%E7%A8%8B%E8%B0%83%E8%AF%95.md)
     - [适配原理](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201902/%E9%80%82%E9%85%8D%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
-    - [前端SEO优化积累](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201906/%e5%89%8d%e7%ab%afSEO%e4%bc%98%e5%8c%96%e7%a7%af%e7%b4%af.md)
 
 - ### 游戏相关
 
     - [游戏引擎选择](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201901/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E9%80%89%E6%8B%A9.md)
     - [H5游戏制作分析](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201904/H5%e6%b8%b8%e6%88%8f%e5%88%b6%e4%bd%9c%e5%88%86%e6%9e%90.md)
 
-- ### 职业规划
+- ### 职业相关
 
     - [软件工程认知](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201903/%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e8%ae%a4%e7%9f%a5.md)
     - [如何写好技术文档](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201903/%e5%a6%82%e4%bd%95%e5%86%99%e5%a5%bd%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3.md)
