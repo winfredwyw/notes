@@ -1,7 +1,7 @@
 > Keep Leaning...
 
 
-### 个人笔记
+## 个人笔记
 
 - #### 基础知识
 
@@ -53,7 +53,7 @@
     - [前端规划图谱](https://github.com/winfredwyw/notes/blob/master/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/201909/前端规划图谱.md)
 
 
-### 技术草原
+## 技术草原
 
 - #### Web整合文档
 
@@ -109,7 +109,7 @@
     - [技术的极限](https://www.cnblogs.com/math/p/tech-limit-01.html)
     - [独角兽排行榜](https://dujiaoshou.io/)
 
-### 优秀博客/社区
+## 优秀博客/社区
 
 - [奇舞周刊](https://weekly.75team.com/)
 - [玉伯](https://lifesinger.wordpress.com/)
@@ -133,7 +133,7 @@
 - [程序员导航](http://geekdocs.cn/)
 - [腾讯EFE](https://efe.baidu.com/)
 
-### 大牛分享
+## 大牛分享
 
 - [第十三届 D2 前端技术论坛](https://www.yuque.com/d2forum/content/d213#6a1363f4)
 
@@ -145,11 +145,11 @@
 
 - [第一届 FEDAY](https://www.fequan.com/feday)
 
-### 秀逗技术
+## 秀逗技术
 
 - [Greasy Fork](https://greasyfork.org/zh-CN/)
 
-### 善事利器
+## 善事利器
 
 - #### 翻译
     - [国际化应用翻译](https://i18ns.com/)
