@@ -97,6 +97,7 @@
 - #### 设计方案
     - [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
     - [面向对象](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3.md)
+    - [设计模式2](https://refactoringguru.cn/design-patterns)
 
 - #### 持续集成
 
