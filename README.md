@@ -110,6 +110,9 @@
     - [技术的极限](https://www.cnblogs.com/math/p/tech-limit-01.html)
     - [独角兽排行榜](https://dujiaoshou.io/)
 
+- #### 编程初学者文档
+    - [什么是编码](https://www.codeconquest.com/what-is-coding/)
+
 ## 优秀博客/社区
 
 - [奇舞周刊](https://weekly.75team.com/)
