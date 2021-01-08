@@ -1,3 +1,5 @@
+![notes](https://socialify.git.ci/winfredwyw/notes/image?language=1&owner=1&stargazers=1&theme=Light)
+
 > Keep Leaning...
 
 
